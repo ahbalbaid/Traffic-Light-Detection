@@ -2,7 +2,6 @@
 
 ![alt text](detection.png)
 
-
 <h2>References:</h2>
 
 1. <a href="https://hci.iwr.uni-heidelberg.de/node/6132"> BOSCH Traffic Lights Dataset</a>
