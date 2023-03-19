@@ -1,5 +1,7 @@
 # Traffic-Light-Detection
 
+![alt text](detection.png)
+
 
 <h2>References:</h2>
 
